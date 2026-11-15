@@ -1,0 +1,18 @@
+{
+  "id": "./",
+  "name": "FRANCES - My Super Girl",
+  "short_name": "Frances",
+  "description": "A little love, made especially for Frances.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#FFE8EE",
+  "theme_color": "#FFE8EE",
+  "categories": ["lifestyle", "entertainment"],
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
