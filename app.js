@@ -21,8 +21,8 @@ const defaultPhotos = [
 // Songs you import from Settings are saved on the device and play after these.
 const defaultSongs = [
   { title: 'Me and you',      src: 'assets/music/Tems_-_Me___U__Official_Video_(256k).mp3' },
-  { title: 'Her Favourite', src: 'assets/music/Billie_Eilish,_Khalid_-_lovely(256k).mp3' },
-  { title: 'Third Song',    src: 'assets/music/third-song.mp3' }
+  { title: 'Lovely', src: 'assets/music/Billie_Eilish,_Khalid_-_lovely(256k).mp3' },
+  { title: 'Runaway',    src: 'assets/music/AURORA_-_Runaway(256k).mp3' }
 ];
 
 const compliment = 'You turn ordinary days into something worth remembering.';
